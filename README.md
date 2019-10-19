@@ -1,4 +1,4 @@
-## DAA Project
+## Design And Analysis of Algorithms Assignment
 
 Problem defination : Given a string and pattern. Design pattern search algorithm which search the pattern exactly in the string or any permutation of pattern in the string.
 
